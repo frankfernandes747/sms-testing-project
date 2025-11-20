@@ -1,7 +1,14 @@
-
 ---
 
 ## Document Descriptions
+
+This testing project is based on the open-source School Management System available here:  
+https://github.com/mahmoudai1/school-management-system  
+
+I explored the project, understood how each module worked, referred to the SRS, and then prepared all the testing documents myself.  
+The work includes requirement study, scenario creation, test case writing, execution, defect logging, and final reporting.
+
+---
 
 ### **Test Plan**
 Describes the approach, scope of testing, responsibilities, test environment, and criteria used to start and end testing.
@@ -22,7 +29,6 @@ Covers the overall execution results such as number of test cases, pass/fail cou
 
 ### **Test Summary Report**
 Final document explaining how the testing went, major observations, defect distribution, and a general quality assessment.
-
 
 ---
 
