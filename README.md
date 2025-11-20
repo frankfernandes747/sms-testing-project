@@ -1,5 +1,3 @@
----
-
 ## Document Descriptions
 
 This testing project is based on the open-source School Management System available here:  
