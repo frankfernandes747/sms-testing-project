@@ -6,9 +6,6 @@
 ### **Test Plan**
 Describes the approach, scope of testing, responsibilities, test environment, and criteria used to start and end testing.
 
-### **Test Cases**
-Includes detailed steps, test data, preconditions, and expected vs actual results for each feature tested.
-
 ### **RTM (Requirement Traceability Matrix)**
 Maps every requirement to test scenarios and test cases, ensuring complete coverage.
 
