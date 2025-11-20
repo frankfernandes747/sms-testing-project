@@ -12,6 +12,10 @@ Includes detailed steps, test data, preconditions, and expected vs actual result
 ### **RTM (Requirement Traceability Matrix)**
 Maps every requirement to test scenarios and test cases, ensuring complete coverage.
 
+### **Test_Sheet_School_Management_System**
+A spreadsheet that contains the Test Scenarios, RTM, and Test Cases in one place.  
+This file serves as a combined reference for requirement mapping, scenario coverage, and detailed execution steps.
+
 ### **Bug Report**
 Lists all the issues found during testing along with severity, priority, reproduction steps, and screenshots.  
 All screenshots are placed in the **bugs_screenshots** folder.
@@ -21,6 +25,7 @@ Covers the overall execution results such as number of test cases, pass/fail cou
 
 ### **Test Summary Report**
 Final document explaining how the testing went, major observations, defect distribution, and a general quality assessment.
+
 
 ---
 
